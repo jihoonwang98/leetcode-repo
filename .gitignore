@@ -12,3 +12,6 @@ node_modules/
 
 # Ignore any compiled source files
 src/*.js
+
+src/prac.ts
+test/test.ts
