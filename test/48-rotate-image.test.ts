@@ -1,5 +1,4 @@
-import { print2DArray } from "../src/library/functions";
-import { changeValue, rotate, traverse } from "../src/prac";
+import {rotate} from "../src/48-rotate-image";
 
 describe("rotate", () => {
   test("rotates a 3x3 matrix", () => {

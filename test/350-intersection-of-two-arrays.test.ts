@@ -1,14 +1,4 @@
-import { intersect } from "../src/prac";
-
-// describe("setHashMap", () => {
-//   test("1", () => {
-//     const result = setHashTable([5, 3, 2, 3, 3, 2, 4, 4, 1, 5, 6]);
-
-//     for (const [key, value] of result.entries()) {
-//       console.log(`key: ${key}, value: ${value}`);
-//     }
-//   });
-// });
+import { intersect } from "../src/350-intersection-of-two-arrays";
 
 describe("intersect", () => {
   test("finds intersection of two arrays with duplicates", () => {

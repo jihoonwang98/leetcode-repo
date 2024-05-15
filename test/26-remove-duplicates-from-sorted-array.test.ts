@@ -1,4 +1,4 @@
-import { removeDuplicates } from "../src/prac";
+import { removeDuplicates } from "../src/26-remove-duplicates-from-sorted-array";
 
 describe("removeDuplicates", () => {
   test("removes duplicates from [1, 1, 2]", () => {
